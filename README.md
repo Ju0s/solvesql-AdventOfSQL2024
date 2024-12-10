@@ -9,3 +9,4 @@ link: https://solvesql.com/collections/advent-of-sql-2024/
 ### DAY7: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-7%EC%9D%BC%EC%B0%A8
 ### DAY8: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-8%EC%9D%BC%EC%B0%A8
 ### DAY9: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-9%EC%9D%BC%EC%B0%A8
+### DAY10: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-10%EC%9D%BC%EC%B0%A8
