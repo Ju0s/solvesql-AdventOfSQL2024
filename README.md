@@ -17,3 +17,4 @@ link: https://solvesql.com/collections/advent-of-sql-2024/
 ### DAY15: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-15%EC%9D%BC%EC%B0%A8
 ### DAY16: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-16%EC%9D%BC%EC%B0%A8
 ### DAY17: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-17%EC%9D%BC%EC%B0%A8
+### DAY18: https://juyoungeeya.tistory.com/entry/SQL-solvesql-Advent-of-SQL-2024-18%EC%9D%BC%EC%B0%A8
